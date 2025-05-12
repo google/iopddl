@@ -15,3 +15,7 @@ In order to try out the contest problems, you'll first need to run this command 
 ```
 $ gzip -d benchmarks/*
 ```
+
+More details about these benchmarks:
+
+<img src="iopddl-benchmark-details.png">
